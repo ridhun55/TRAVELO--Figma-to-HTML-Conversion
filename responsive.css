@@ -1,0 +1,151 @@
+
+@media (max-width:600px) {
+   .popular-wrapper .owl-nav{
+      display: none;
+   }
+}
+
+
+@media (max-width:1020px) {
+   .services-wrapper {
+      top: 606px;
+   }
+   .explore .explore-wrapper .card-body .card-title {
+    font-size: 40px;
+   }
+   .explore .explore-wrapper .card-body p {
+      font-size: 14px;
+   }
+   .explore .explore-wrapper .card-body ul li {
+      font-size: 11px;
+   }
+}
+@media (max-width:993px) {
+   .services-wrapper {
+      top: 215px;
+   }
+   .bg-2 {
+      top: 1812px;
+   }
+   .bg-3 {
+      top: 1630px;
+   }
+   .counter {
+      top: 350px;
+   }
+   #POPULAR {
+      top: 450px;
+   }
+   .explore{
+      top:500px
+   }
+   .partners {
+    top: 500px;
+   }
+   .footer-wrapper{
+      top: 550px;
+   }
+
+}
+
+@media (max-width: 768px){
+   .hero .hero-wrapper .hero-left {
+      top: 377px;
+   }
+   .booking-wrapper{
+      margin-top: 80px;
+   }
+   .services-wrapper {
+      top: 356px;
+   }
+   .bg-2 {
+      top: 2255px;
+   }
+   .bg-3 {
+      top: 1703px;
+   }
+   .counter {
+      top: 434px;
+   }
+   #POPULAR {
+      margin-top: 77px;
+   }
+   .explore{
+      top:500px
+   }
+   .partners {
+    top: 500px;
+   }
+   .footer-wrapper{
+      top: 550px;
+   }
+   .footer-wrapper .footer-bg .footer-logo {
+    padding: 0px;
+   }
+   .footer-wrapper .footer-bg .importent-links{
+      padding-top: 10px !important;
+   }
+   .footer-wrapper .footer-bg .footer-contact{
+      padding-top: 10px !important;
+   }
+   .footer-wrapper .footer-social{
+      justify-content: center;
+      padding-top: 20px;
+      padding-bottom: 20px;
+   }
+
+}
+
+/* @media (min-width:375px) {
+   .hero .hero-wrapper .hero-left {
+      top: 262px;
+   }
+   .bg-1 {
+      display: none;
+   }
+   .booking-wrapper {
+      margin-top: 17px;
+   }
+} */
+@media (max-width:450px) {
+   .hero .hero-wrapper .hero-right .desk-img{
+      display: none;
+   }
+   .hero .hero-wrapper .hero-left .mob-img{
+      display: block;
+   }
+   .bg-1{
+      display: none;
+   }
+   .hero .hero-wrapper .hero-left h1{
+      font-size: clamp(20px, 10vw, 50px);
+   }
+   .hero .hero-wrapper .hero-left {
+      top: 0px;
+   }
+   .booking-wrapper {
+    margin-top: 0px;
+   }
+}
+@media (min-width:450px) {
+   .hero .hero-wrapper .hero-right .desk-img{
+      display: block;
+   }
+   .hero .hero-wrapper .hero-left .mob-img{
+      display: none;
+   }
+}
+
+/* 
+.modal .video{
+   width: 100%;
+      max-width: 640px;
+    min-height: 360px;
+} */
+
+
+
+.navbar-light .navbar-toggler {
+    color: transparent;
+    border:none
+}
